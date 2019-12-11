@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="paramt_list:Web2 exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/paramt_list_Web2_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="paramt_list/web/Web2" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="paramt_list" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
