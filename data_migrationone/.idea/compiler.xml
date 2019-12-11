@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="migration_DBA" />
+        <module name="migration_eureka" />
+        <module name="migration_login" />
+        <module name="migration_common" />
+        <module name="migration_BI" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="data_migrationone" options="-parameters" />
+      <module name="migration_BI" options="-parameters" />
+      <module name="migration_DBA" options="-parameters" />
+      <module name="migration_common" options="-parameters" />
+      <module name="migration_eureka" options="-parameters" />
+      <module name="migration_login" options="-parameters" />
+    </option>
+  </component>
+</project>
