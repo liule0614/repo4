@@ -2,120 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c4f8034-167d-4f98-a736-9249b1ce301a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../data_migration/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/migration_BI/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/migration_BI/src/main/java/com/migration/BI/BIApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/migration_BI/src/main/java/com/migration/BI/controller/BIController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/migration_BI/src/main/java/com/migration/BI/dao/BIDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/migration_BI/src/main/java/com/migration/BI/service/BIService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/migration_BI/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/migration_BI/src/main/resources/mappers/BIMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/migration_DBA/migration_DBA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/migration_DBA/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/migration_DBA/src/main/java/com/migration/DBAApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/migration_DBA/src/main/java/com/migration/controller/DBAController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/migration_DBA/src/main/java/com/migration/dao/DBADao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/migration_DBA/src/main/java/com/migration/domin/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/migration_DBA/src/main/java/com/migration/service/DBAService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/migration_DBA/src/main/java/com/migration/thread/DBAThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/migration_DBA/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/migration_DBA/src/main/resources/mappers/DBAMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/migration_common/migration_common.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/migration_common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/migration_common/src/main/java/com/migration/entity/CodeMsg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/migration_common/src/main/java/com/migration/entity/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/migration_common/src/main/java/com/migration/util/JdbcUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/migration_common/src/main/java/com/migration/util/JsonListUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/migration_common/src/main/java/com/migration/util/JsonUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/migration_common/src/main/java/com/migration/util/RedisService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/migration_common/src/main/java/com/migration/util/UUIDUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/migration_eureka/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/migration_login/migration_login.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/migration_login/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_migration/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../idea/tensquare_parent/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_list/.idea/artifacts/paramt_list_Web2_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_list/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_list/src/main/java/com/aliu/ListApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_list/src/main/java/com/aliu/config/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_list/src/main/java/com/aliu/controller/BiController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_list/src/main/java/com/aliu/controller/ListController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_list/src/main/java/com/aliu/dao/ListMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_list/src/main/java/com/aliu/entity/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_list/src/main/java/com/aliu/service/ListService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_list/src/main/java/com/aliu/thread/ListThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_list/src/main/java/com/aliu/util/JdbcUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_list/src/main/java/com/aliu/util/JsonListUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_list/src/main/java/com/aliu/util/JsonUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_list/src/main/java/com/aliu/util/RedisService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_list/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_list/src/main/resources/mappers/ListMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_list/src/main/webapp/WEB-INF/jsp/list.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_list/src/main/webapp/js/jquery-1.8.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/alipay/config/AlipayConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/ServletInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/access/AccessInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/access/AccessLimit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/access/UserContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/config/UserArgumentResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/config/WebConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/controller/DemoCotroller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/controller/MiaoshaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/controller/MiaoshaGoodsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/controller/MiaoshaOrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/controller/OrderPayController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/dimain/Goods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/dimain/MiaoshaGoods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/dimain/MiaoshaOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/dimain/OrderInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/mapper/MiaoshaGoodsMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/mapper/MiaoshaOrderMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/rabbit/MQConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/rabbit/MQReceiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/rabbit/MQSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/rabbit/MiaoshaMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/redis/AccessKey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/redis/MiaoshaGoodsKey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/redis/MiaoshaKey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/service/MiaoshaGoodsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/service/MiaoshaOrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/service/MiaoshaService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/util/DBUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/util/UserUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/vo/GoodsDetailVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/vo/GoodsVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/vo/LoginVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/java/com/javaeestudy/miaosha/vo/OrderDetailVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/resources/static/goods_detail.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/resources/static/img/iphonex.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/resources/static/img/meta10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/resources/static/js/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/resources/static/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/resources/static/js/md5.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/resources/static/order_detail.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/resources/templates/goods_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/resources/templates/miaosha_fail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/webapp/alipay.trade.close.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/webapp/alipay.trade.fastpay.refund.query.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/webapp/alipay.trade.page.pay.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/webapp/alipay.trade.query.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/webapp/alipay.trade.refund.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/webapp/notify_url.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_miaosha/src/main/webapp/return_url.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_test/src/main/java/com/test/main/Dome1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_test/src/main/java/com/test/thread/DomeThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_test/src/main/java/com/test/util/JdbcUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_test/src/main/java/com/test/za/DateBaseUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_test/src/main/java/com/test/za/GetInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paramt_test/src/main/java/com/test/za/TableUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../README.en.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ceshi/src/com/bwei/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_migration/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../data_migration/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -180,8 +71,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="39" column="37" lean-forward="true" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+            <state relative-caret-position="-232">
+              <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -348,6 +239,11 @@
     </key>
   </component>
   <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
     <option name="ruleStates">
       <list>
         <RuleState>
@@ -476,7 +372,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576063791965</updated>
-      <workItem from="1576063797343" duration="6926000" />
+      <workItem from="1576063797343" duration="7566000" />
     </task>
     <task id="LOCAL-00001" summary="整体架构">
       <created>1576077456127</created>
@@ -489,10 +385,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6926000" />
+    <option name="totallyTimeSpent" value="7566000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="718" y="111" width="1685" height="1018" extended-state="0" />
+    <frame x="225" y="100" width="1685" height="890" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -501,8 +397,9 @@
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2196923" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2196923" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" visible="true" weight="0.24453552" />
       <window_info anchor="bottom" id="Spring" weight="0.32906976" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -513,7 +410,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.27209303" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32906976" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32906976" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -684,8 +581,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="39" column="37" lean-forward="true" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+        <state relative-caret-position="-232">
+          <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
         </state>
       </provider>
     </entry>
